@@ -1,0 +1,3 @@
+lab 2
+g++ 3dscene.cpp -o 3dscene -lsfml-window -lsfml-system -lGL -lGLU
+./3dscene
