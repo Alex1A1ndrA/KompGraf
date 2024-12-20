@@ -1,0 +1,3 @@
+lab 3
+g++ 3dtransformation.cpp -o 3dtransformation -lsfml-window -lsfml-system -lGL
+./3dtransformation
