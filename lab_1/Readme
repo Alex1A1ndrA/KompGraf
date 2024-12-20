@@ -1,1 +1,3 @@
 lab1
+g++ -o polygon_animation polygon_animation.cpp -lglfw -lGL
+./polygon_animation
